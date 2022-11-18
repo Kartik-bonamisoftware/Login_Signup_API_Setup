@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "firstName": "Sally Nash",
+      "email": "sssa@gmail.com",
+      "password": "Bruce@12345",
+      "confirmPassword": "Bruce@12345",
+      "id": 1
+    },
+    {
+      "firstName": "melanie",
+      "email": "sssa@gmail.com",
+      "password": "Software#123",
+      "confirmPassword": "Software#123",
+      "id": 2
+    }
+  ]
+}
